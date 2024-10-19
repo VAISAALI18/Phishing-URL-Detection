@@ -4,8 +4,11 @@ This project is a Phishing URL Detection System built using Python, Streamlit, a
 
 ## Table of Contents
 Overview
+
 Features
+
 Prerequisites
+
 Dataset
 
 ## Overview
