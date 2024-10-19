@@ -9,4 +9,4 @@ whois
 gunicorn
 matplotlib
 seaborn
-sklearn
+scikit-learn
