@@ -34,7 +34,7 @@ def load_data():
 @st.cache_resource
 def load_model():
     try:
-        with open('pickle/model.pkl', 'rb') as file:
+        with open('model.pkl', 'rb') as file:
             model = pickle.load(file)
         return model
     except FileNotFoundError:
