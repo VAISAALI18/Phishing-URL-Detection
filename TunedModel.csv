@@ -1,0 +1,11 @@
+Model,Accuracy,F1 Score,Recall,Precision
+Support Vector Classifier Tuned,0.965,0.965853659,0.99,0.942857143
+Gradient Boosting Tuned,0.95,0.95049505,0.96,0.941176471
+Multilayer Perceptron Tuned,0.95,0.95049505,0.96,0.941176471
+CatBoost Tuned,0.945,0.945273632,0.95,0.940594059
+XGBoost Tuned,0.94,0.941176471,0.96,0.923076923
+K-Nearest Neighbors Tuned,0.935,0.935323383,0.94,0.930693069
+Random Forest Tuned,0.915,0.914572864,0.91,0.919191919
+Logistic Regression Tuned,0.805,0.805970149,0.81,0.801980198
+Decision Tree Tuned,0.785,0.779487179,0.76,0.8
+Naive Bayes Tuned,0.765,0.753926702,0.72,0.791208791
