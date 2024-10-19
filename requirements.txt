@@ -7,3 +7,4 @@ python-dateutil
 requests
 whois
 gunicorn
+matplotlib
