@@ -23,11 +23,17 @@ Feature Importance: Analysis of which features contribute most to predicting phi
 
 ## Prerequisites
 Python 3.7+
+
 Streamlit
+
 Scikit-learn
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
 
 ## Dataset
