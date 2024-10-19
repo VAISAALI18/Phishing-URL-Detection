@@ -1,10 +1,11 @@
+pip --upgrade
 streamlit
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-pickle5
+pickle5==0.0.10
 requests
 beautifulsoup4
 googlesearch-python
